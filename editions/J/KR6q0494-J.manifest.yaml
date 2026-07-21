@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0494_000-J.yaml, hash: 'sha256:94dc26d914d4ce90943a9ab754c5582ab5f8eeef20d636d5c27d3d6484bbd25b'}
+  - {seq: 0, filename: KR6q0494_000-J.yaml, hash: 'sha256:e48cbcd699f9aa90a0b86c5ebafbfe79f5e531752cee5714e22e4f73e3adbb8b'}
   - {seq: 1, filename: KR6q0494_001-J.yaml, hash: 'sha256:9d1bf84bfb61c578f556b1a3ad7f546ee21600472662c3445e2db0502d2f5b2f'}
   - {seq: 2, filename: KR6q0494_002-J.yaml, hash: 'sha256:c9a78eeeb100546d5ac008bda3b4317538e0a6f61ee64b4ca9ca4b082a566db8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0494_000-J.markers.yaml, hash: 'sha256:639b57c5044febb2104c66401e823f695f8e56b36b2314fb43a16755d84802da'}
+  - {seq: 0, role: markers, filename: assets/KR6q0494_000-J.markers.yaml, hash: 'sha256:851c1df0dbdcd5bd2b4683bd62de45e4d3021bf6da78ca4fb59e4cc437d5acf7'}
   - {seq: 1, role: markers, filename: assets/KR6q0494_001-J.markers.yaml, hash: 'sha256:590d6c86171052c1d8ae4212105d01fcd5a8f41d7f728d3378e5f959d6a4dbca'}
   - {seq: 2, role: markers, filename: assets/KR6q0494_002-J.markers.yaml, hash: 'sha256:49142eaff33e58c296f1718e6ab352d131043c08dcdb2a983ff2bdd4e3424a81'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0494_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0494_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 江溥洄叟氏序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0494_J_000-mulu-3
     span:
-    - front
+    - body
     - 454
     - 454
   label: 劉蒞敘
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0494_J_000-mulu-4
     span:
-    - front
+    - body
     - 837
     - 837
   label: 目次
@@ -1437,4 +1437,4 @@ table_of_contents:
   label: 附錄
   type: mulu
   level: 1
-hash: sha256:6848fdcda16dc3f0f2817e6682cdbea3c27abe873a490722910830bdc89577af
+hash: sha256:49f935d6622ef7a26363d99952526286fe13e51106d524f6a0ff529ca0c850f4
